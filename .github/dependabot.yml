@@ -4,5 +4,5 @@ updates:
     directory: '/'
     schedule:
       interval: "cron"
-      cronjob: "*/5 * * * *"
+      cronjob: "0 9 35 * *"
     target-branch: 'develop'
